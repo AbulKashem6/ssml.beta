@@ -1,0 +1,197 @@
+*body{
+    box-sizing: border-box;
+}
+
+.bgs{
+    /* background-image: url("../Asset/Bgc1.webp"); */
+    background-image: url("../Asset/bgimg12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;  
+}
+
+
+.navsection{
+    width: 100%;
+}
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+/*Main Body Section*/
+.ipoprocess{
+   padding-bottom: 200px;
+    max-width:100%;
+    max-height: fit-content;
+    margin: 10px 15% 10px 15%;
+}
+
+.ipohead{
+    text-align: center;
+    background-color: rgb(0, 91, 128);
+    color:#fff;
+    
+
+}
+
+.btngroup .btn a{
+    color:#000;
+    text-decoration: none;
+  }
+
+.btngroup .btn{
+    width: 24%;
+    height: 100px;
+    margin-top: 50px;
+    background-color: #91D6F1;  
+    
+}
+
+.btngroup .btn:hover{
+    background-color: rgb(0, 91, 128);
+}
+
+.btngroup .btn a:hover{
+    color:#fff; 
+
+}
+
+/*Sitemap*/
+
+
+* {
+    box-sizing: border-box;
+  }
+  .ssmlsitemap{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(145, 214, 241);
+  }
+
+ 
+.ssmlsitemap .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-size: 12px;
+        text-align: center;
+        margin: 0 5px 0 5px;
+      
+  }
+  
+  .ssmlsitemap .flex-item-left {
+    flex: 16%;
+  }
+
+  .ssmlsitemap .flex-item-left1 {
+   width: 100px;
+    flex: 6%;
+    
+  }
+
+  .relative{
+    position: relative;   
+    
+}
+
+
+.absolute{
+  position: absolute;  
+  bottom:0;  
+  left:0;
+  right: 0;  
+  margin:auto;
+}
+  
+ul li{
+    text-align: left;
+    display: block;
+}
+
+li a{
+    text-decoration: none;
+}
+.sitemaps{
+    text-align:left; 
+    
+    
+  }
+  .sitemaps a{
+    text-decoration: none;
+    color:#000;
+  }
+
+  .sitemaps a:hover{
+    color:#fff;
+  }
+
+.sitemaps h6{
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;    
+}
+.chq h6{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;   
+}  
+
+@media (max-width: 800px) {
+    .info{
+        display: none;      
+    }
+    .form-check-label, .form-check-input{
+        display: none;
+    }
+    
+    
+  }
+
+
+.copyright{
+    text-align: center; 
+    height: 20px;
+    background-color: rgb(68, 171, 212);
+    font-size: 13px;
+    color:#000;
+    padding: 0;
+    
+}
+.copyright a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
+
+    

@@ -1,0 +1,129 @@
+*body{
+    box-sizing: border-box;
+}
+
+.bannar{
+    height: 130px;
+    background-color: rgb(145, 214, 241);
+    color: rgb(0, 0, 0);
+}
+
+.ssmlLogo{
+    display:inline-block;
+}
+.ssmlLogo img{
+    margin-left: 50px;
+    width: 126px;
+    height: 126px;
+}
+
+.text{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+}
+
+.squareLogo{    
+    float: right;
+}
+.squareLogo img{
+    margin-right: 30px;
+    width: 126px;
+    height: 126px;
+}
+
+.navsection{
+    width: 100%;
+}
+/*
+.nav-item li a:hover{
+    background-color:rgb(145, 214, 241);*/
+    /*color: #fff;
+}
+ 
+.navbar-brand a:hover{
+    color: crimson;
+    background-color: antiquewhite;
+}
+*/
+
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+/* login and Register*/
+
+.Loginregister{
+    box-sizing: border-box;
+    padding: 300px;
+    background-color: gainsboro;
+    width: 100%;
+}
+
+.loginpanel{
+    background-color: darkgreen;
+    width: 300px;
+    height: 300px;
+    margin:0 auto;
+    box-sizing: border-box;
+}
+
+
+.footerSection{
+    
+    background-color: rgb(145, 214, 241);
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.footerSection li{
+    display: block;
+
+}
+.footerSection a{
+    color:#000;
+    text-decoration: none;
+
+}
+.footerSection a:hover{
+    color: #fff;
+}
+.copyright{
+    text-align: center; 
+    height: 15px;
+    background-color: rgb(68, 171, 212);
+    font-size: 11px;
+    color:aliceblue;
+    
+}
+.copyright a{
+    text-decoration: none;
+    color: #fff;
+}
+

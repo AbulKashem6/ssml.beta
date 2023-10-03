@@ -1,0 +1,280 @@
+*body{
+    box-sizing: border-box;
+    }
+
+    .bgs{
+         /* background-image: url("../Asset/Bgc1.webp"); */
+        background-image: url("../Asset/bgimg1.jpg");
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 100%;
+        background-position: center;
+        background-size: cover;  
+    }
+
+
+
+
+.navsection{
+    width: 100%;
+}
+/*
+.nav-item li a:hover{
+    background-color:rgb(145, 214, 241);*/
+    /*color: #fff;
+}
+ 
+.navbar-brand a:hover{
+    color: crimson;
+    background-color: antiquewhite;
+}
+*/
+
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+
+
+/* Trading Types*/
+
+.tradingtypes{
+    width: 80%;
+    height: 600px;
+    margin: 0px auto;     
+    
+     
+}
+.tradingtypes .row{
+    margin: 0px auto;
+    
+}
+
+.instcthead .btngroup button{
+    width: 100%;
+    background-color: rgb(0, 91, 128);   
+    
+}
+
+
+
+.tradingtypes .btngroup .btn a{
+    
+    text-decoration: none;
+  }
+
+.tradingtypes .btngroup .btn{
+    
+    margin-top: 20px;
+    
+}
+/*InhouseTrading*/
+.tradingtypes .btnformline1 .btn{
+    width: 400px;
+    height: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: rgb(0, 91, 128);
+    
+}
+
+.tradinghead{
+   
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    /* background:rgb(64, 101, 114); */
+    background-color: rgb(0, 91, 128);
+    width: 400px;
+    
+}
+
+.btnformline1 a{
+    color:#fff;
+   
+}
+
+.btnformline1 .btn:hover {
+    background:rgb(64, 101, 114);
+}
+
+.btnformline1 .headtitle .btn{
+    background-color: rgb(0, 91, 128);
+    color: #fff;
+}
+
+.btnformline1 .headtitle:hover{
+    background-color: rgb(0, 91, 128);
+    color: #fff;
+}
+
+.tradingtypes .bracnchesinfo{
+    max-width: 100%;
+    max-height: max-content;    
+}
+
+
+.tradingtypes .roundhead{
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    
+
+}
+
+.instructionslist{
+    margin-left: 10px;
+    margin-right: 10px;
+    line-height: 28px;
+    text-align: justify;
+}
+
+.instructions{
+    width: 75%;
+    margin-left: 15%;
+    
+}
+
+.instcthead  a{
+    font-size: 20px;
+    font-weight: bold;
+    color:#fff;
+    
+}
+
+
+
+.tradingappslink .btngroup{
+   display: inline;
+   width: 50px;
+}
+
+.mobiletrading{
+    margin-top: 70px;
+
+}
+
+.mobiletrading a{
+    -webkit-margin-start: 20px;
+    height: 50px;
+}
+
+/*Sitemap*/
+
+
+* {
+    box-sizing: border-box;
+  }
+  .ssmlsitemap{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(145, 214, 241);
+  }
+
+ 
+.ssmlsitemap .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-size: 12px;
+        text-align: center;
+        margin: 0 5px 0 5px;
+      
+  }
+  
+  .ssmlsitemap .flex-item-left {
+    flex: 16%;
+  }
+
+  .ssmlsitemap .flex-item-left1 {
+   width: 100px;
+    flex: 6%;
+    
+  }
+
+  .relative{
+    position: relative;   
+    
+}
+
+
+.absolute{
+  position: absolute;  
+  bottom:0;  
+  left:0;
+  right: 0;  
+  margin:auto;
+}
+  
+ul li{
+    text-align: left;
+    display: block;
+}
+
+li a{
+    text-decoration: none;
+}
+.sitemaps{
+    text-align:left; 
+    
+    
+  }
+  .sitemaps a{
+    text-decoration: none;
+    color:#000;
+  }
+
+  .sitemaps a:hover{
+    color:#fff;
+  }
+
+.sitemaps h6{
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;    
+}
+.chq h6{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;   
+}  
+
+@media (max-width: 800px) {
+    .info{
+        display: none;      
+    }
+    .form-check-label, .form-check-input{
+        display: none;
+    }
+    
+    
+  }
+
+
+
+.copyright{
+    text-align: center; 
+    height: 20px;
+    background-color: rgb(68, 171, 212);
+    font-size: 13px;
+    color:#000;
+    padding: 0;
+    
+}
+.copyright a{
+    text-decoration: none;
+    color: #000;
+}
+

@@ -1,0 +1,314 @@
+*body{
+    box-sizing: border-box;
+}
+
+.bannar{
+    height: 130px;
+    background-color: rgb(145, 214, 241);
+    color: rgb(0, 0, 0);
+}
+
+.ssmlLogo{
+    display:inline-block;
+}
+.ssmlLogo img{
+    margin-left: 50px;
+    width: 126px;
+    height: 126px;
+}
+
+.text{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+}
+
+.squareLogo{    
+    float: right;
+}
+.squareLogo img{
+    margin-right: 30px;
+    width: 126px;
+    height: 126px;
+}
+
+.navsection{
+    width: 100%;
+}
+
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+/* BO Opening Style*/
+
+.boaccount{  
+    
+   
+   
+    width: 100%;
+    min-height: 639px;
+    
+     
+}
+
+.row{
+    padding: 0%;
+    margin:0px auto;
+    
+}
+
+table {
+    font-size: 18px;    
+    border: 1px solid black;
+    
+    
+}
+.faall{
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.instructions{
+    font-size: 13px;
+    height: 500px;
+    margin-right: 30px;
+   
+}
+
+.instcthead{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: darkgrey;
+    
+}
+
+.formdownloadshead{
+    
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: darkgrey;
+}
+.formsinfo{
+  
+    padding:0px;
+    width: 82%;
+    height: 600px;
+    
+
+}
+.formlist{
+    padding:0px;
+    text-justify: auto;
+    
+}
+
+.formlist li{
+  background-color: rgb(167, 237, 248);
+  display: block;
+  height: 100px;
+  border-radius: 10%;
+  
+  }
+.fdonwload{
+    
+    width: 300px;
+    height: 101px;
+    margin: 0px auto;
+}
+
+  .btngroup .btn a{
+    color:#000;
+    text-decoration: none;
+  }
+
+  .btngroup .btn {
+    width: 450px;
+    height: 49px;
+}
+
+.faq{
+    box-sizing: border-box;
+    max-height: max-content;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    
+}
+
+
+/*New Collaps Style*/
+
+
+.collapsible {
+    background-color: #91D6F1;      
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  .mbadd{
+
+    margin-bottom:3px; 
+    border-radius: 5px;
+  }
+
+ .faq .dropdown-toggle{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    
+  }
+  .active, .collapsible:hover {
+    background-color: rgb(0, 91, 128);
+    color: #fff;
+  }
+  
+  .content {
+    border:1px solid rgb(129, 129, 129);
+    padding: 0 12px;
+    display: none;
+    overflow: hidden;
+    margin-bottom: 2px;
+    color: rgb(255, 255, 255);
+  }
+
+/*Sitemap*/
+
+
+* {
+    box-sizing: border-box;
+  }
+  .ssmlsitemap{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(145, 214, 241);
+  }
+
+ 
+.ssmlsitemap .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-size: 12px;
+        text-align: center;
+        margin: 0 5px 0 5px;
+      
+  }
+  
+  .ssmlsitemap .flex-item-left {
+    flex: 16%;
+  }
+
+  .ssmlsitemap .flex-item-left1 {
+   width: 100px;
+    flex: 6%;
+    
+  }
+
+  .relative{
+    position: relative;   
+    
+}
+
+
+.absolute{
+  position: absolute;  
+  bottom:0;  
+  left:0;
+  right: 0;  
+  margin:auto;
+}
+  
+ul li{
+    text-align: left;
+    display: block;
+}
+
+li a{
+    text-decoration: none;
+}
+.sitemaps{
+    text-align:left; 
+    
+    
+  }
+  .sitemaps a{
+    text-decoration: none;
+    color:#000;
+  }
+
+  .sitemaps a:hover{
+    color:#fff;
+  }
+
+.sitemaps h6{
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;    
+}
+.chq h6{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;   
+}  
+
+@media (max-width: 800px) {
+    .info{
+        display: none;      
+    }
+    .form-check-label, .form-check-input{
+        display: none;
+    }
+    
+    
+  }
+
+.copyright{
+    text-align: center; 
+    height: 20px;
+    background-color: rgb(68, 171, 212);
+    font-size: 13px;
+    color:#000;
+    padding: 0;
+    
+}
+.copyright a{
+    text-decoration: none;
+    color: #000;
+}
+

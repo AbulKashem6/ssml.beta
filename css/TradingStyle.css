@@ -1,0 +1,172 @@
+*body{
+    box-sizing: border-box;
+}
+
+
+.header{
+    padding: 5px;
+    background-color: rgb(155, 150, 150);
+    color: rgb(0, 0, 0);
+}
+.header li{
+    padding-left: 20px;
+    display: inline-block;
+}
+
+.bannar{
+    height: 130px;
+    background-color: rgb(145, 214, 241);
+    color: rgb(0, 0, 0);
+}
+.compnayname{
+    display: inline-block;
+    text-align: center;
+    color: red;
+    font-size: 3.5rem;
+    
+}
+.ssmlLogo{
+    display:inline-block;
+}
+.ssmlLogo img{
+    margin-left: 50px;
+    width: 126px;
+    height: 126px;
+}
+
+.text{
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    
+}
+
+.squareLogo{    
+    float: right;
+}
+.squareLogo img{
+    margin-right: 30px;
+    width: 126px;
+    height: 126px;
+}
+
+.navsection{
+    width: 100%;
+}
+/*
+.nav-item li a:hover{
+    background-color:rgb(145, 214, 241);*/
+    /*color: #fff;
+}
+ 
+.navbar-brand a:hover{
+    color: crimson;
+    background-color: antiquewhite;
+}
+*/
+
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+
+
+/* BO Opening Style*/
+
+.boaccount{
+    width: 100%;
+    height: 639px;
+    margin: 0px auto;
+    
+     
+}
+
+.formdownloadshead{
+    margin-left: 150px;
+    margin-right: 150px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: darkgrey;
+}
+
+.btngroup .btn{
+height: 100px;
+width: 280px;
+}
+
+.btngroup .btn a{
+    color:#000;
+    text-decoration: none;
+  }
+
+
+/*InhouseTrading*/
+
+
+.footer{
+    margin: auto;
+    width: 100%;
+    height: 330px;
+    background-color: #6bd4ec;
+}
+.box1{
+    display: inline-block;
+    margin-left: 350px;
+    width: 250px;
+    height: 330px;
+    }
+
+.box2{
+    display: inline-block;
+    margin-left: 5px;
+    width: 250px;
+    height: 330px;
+    padding-bottom: 50px;
+    
+}
+
+ul{
+    list-style: none;
+}
+.aboutus, .usfullinks  {
+    color: #000;
+    font-size: 15px;
+    
+}
+.aboutus a{
+    text-decoration: none;
+    color: #000;
+}
+.usfullinks a{
+    text-decoration: none;
+    color: #000;
+}
+
+.box3{
+    display: inline-block;
+    margin-left: 80px;
+    width: 280px;
+    height: 330px;
+    }
+.box4{
+    display: inline-block;
+    width:min-content;
+    height:min-content;
+    
+    }
+.footer li a:hover {
+        color:#fff;
+    }
+    

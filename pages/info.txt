@@ -1,0 +1,144 @@
+
+html
+class="bgs"
+
+
+css:
+.bgs{
+    /* background-image: url("../Asset/Bgc1.webp"); */
+    background-image: url("../Asset/bgimg12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;  
+}
+
+background-color: rgb(0, 91, 128);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORPORATE HEADQUARTER
+Square Centre
+48, Mohakhali C/A
+Dhaka 1212, Bangladesh.
+CALL: +88-02-8859007, +88-02-8833047-56
+FAX: +88-02-8828768
+EMAIL: sal@squaregroup.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Person: Md. Zahir Uddin
+
+Designation: Branch Incharge
+
+Telephone: +8802 9514704 - 05, 7110504
+
+Mobile: +880 1730338748
+
+E-Mail: zahir@ssml.com.bd
+
+Address: DSE Annex Building, 9/E Motijheel C/A, 2nd Floor Dhaka-1000
+
+
+Main Trading Office
+Contact Person:	Md. Zahir Uddin
+Designation:	Branch Incharge
+Telephone:	+8802 9514704 - 05, 7110504
+Mobile:	+880 1730338748
+E-Mail:	zahir@ssml.com.bd
+Address:	DSE Annex Building, 9/E Motijheel C/A, 2nd Floor Dhaka-1000
+
+
+Extention Office
+Contact Person: M.M. Abul Hasnat Swapan
+
+Designation: Executive(Compliance)
+
+Telephone: +8802 41040164 - 5
+
+Mobile: +880 862616018
+
+E-Mail: swapan@ssml.com.bd
+
+Address: DSE Tower, Room#141, Level-8, Plot#46, Road#21, Nikunja-2, Khilkhet, Dhaka-1229
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="tradingappslink">
+              <div class="btngroup">
+                <button type="button" class="btn btn-info"><a href=><h5>IPO under Fixed Price Method</h5></a></button>
+                <button type="button" class="btn btn-primary"><a href="https://dse.com.bd/bookbuildingipo.php" target="_blank"><h5>IPO Under Book Building Method</h5></a></button>
+                <button type="button" class="btn btn-info"><a href="https://dse.com.bd/bond.php" target="_blank"><h5>Bond/Sukuk</h5></a></button>
+                <button type="button" class="btn btn-primary"><a href="https://sme.dsebd.org/" target="_blank"><h5>Small Capital Market(SME)</h5></a></button>                
+              </div>
+
+              <div class="mobiletrading">
+                <a class="btn btn-primary" href="https://dse.com.bd/assets/pdf/DSE-MobileRegistration(Print).pdf" target="_blank" role="button">Registration Form</a>
+                <a class="btn btn-primary" href="https://dse.com.bd/assets/pdf/DSE-MobileUserManual.pdf" target="_blank" role="button">User Manual</a>
+                <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.flextrade.dsemogo" target="_blank" role="button">Link</a>
+                               
+              </div>
+			  
+			  
+			  <div>
+              <button type="button" class="btn btn-primary"><a href="https://dse.com.bd/assets/pdf/DSE-MobileRegistration(Print).pdf" target="_blank">Registration Form</a></button>
+              
+            </div>
+
+            <div>
+            <button type="button" class="btn btn-primary"><a href="https://dse.com.bd/assets/pdf/DSE-MobileUserManual.pdf" target="_blank">User Manual</a></button>
+          </div>          
+          <div>
+            <button type="button" class="btn btn-primary"><a href="https://play.google.com/store/apps/details?id=com.flextrade.dsemogo" target="_blank">Download DSE MObile App</a></button>
+          </div>
+          
+          </div> 

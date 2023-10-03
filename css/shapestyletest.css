@@ -1,0 +1,143 @@
+
+.pdfsection{
+    width: 100%;
+    background-color: red;
+    height: 1200px;
+    
+}
+
+.embdpdf{
+    margin-left: 50px;
+    float: right;
+}
+
+@media screen and (max-width: 1024px) {
+    .bannar { 
+        width: 100%;
+    }
+    
+}
+
+body{
+    background-color: rgb(58, 33, 33);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.share3{
+    display: inline-block;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: darkolivegreen;
+    border: 2px solid rgb(39, 73, 208);
+}
+
+.share2{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    float: right;
+    background-color: rgb(94, 164, 233);
+    border: 2px solid pink;
+}
+
+.hexagon {
+    top: 30vh;
+    left: 40%;
+    position: absolute;
+    margin: 0 auto;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    width: 100px; 
+    height: 63px;
+    box-sizing: border-box;
+    transition: all 1s;
+    border: 0.4vh solid transparent;
+}
+  
+/* Creating pseudo-class 
+.hexagon:before, .hexagon:after {
+    content: "";
+    border: inherit;
+    position: absolute;
+    top: -0.5vh;
+    left: -0.5vh;
+    background-color: dodgerblue;
+    border-radius: inherit;
+    height: 100%;
+    width: 100%;
+}
+ */ 
+/* Align them in such a way
+that they form a hexagon
+.hexagon:before {
+    transform: rotate(60deg);
+}
+.hexagon:after {
+    transform: rotate(-60deg);
+}
+/*
+............................
+*/
+
+/*
+.hex {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-image:'../Asset/telephone.png';
+    border-color: #27aae1;
+    position: relative;
+    display: inline-block;
+}
+.hex:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid;
+    border-color: inherit;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+    margin: 0 auto;
+}
+.hex:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid;
+    border-color: inherit;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+.hex2{
+   
+    background-color: #e127de;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: 0px auto;
+}

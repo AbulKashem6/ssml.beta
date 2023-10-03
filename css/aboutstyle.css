@@ -1,0 +1,310 @@
+*body{
+    box-sizing: border-box;
+}
+
+.bgs{
+    /* background-image: url("../Asset/Bgc1.webp"); */
+    background-image: url("../Asset/bgimg12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;  
+}
+
+
+.bannar{
+    height: 130px;
+    background-color: rgb(145, 214, 241);
+    
+}
+
+
+
+.navsection{
+    width: 100%;
+}
+/*
+.nav-item li a:hover{
+    background-color:rgb(145, 214, 241);*/
+    /*color: #fff;
+}
+ 
+.navbar-brand a:hover{
+    color: crimson;
+    background-color: antiquewhite;
+}
+*/
+
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+.navbar-nav .nav-item a:hover{
+ color:#fff;
+}
+
+.loginRegi{
+    display: inline-block;
+}
+.loginRegi a:hover{
+    color:#fff;
+}
+.collapse{
+    padding-left: 70px;
+}
+
+/* BO Opening Style*/
+
+.boaccount{  
+    
+   
+   
+    width: 100%;
+    min-height: 639px;
+    
+     
+}
+
+.row{
+    padding: 0%;
+    margin:0px auto;
+    
+}
+
+table {
+    font-size: 18px;    
+    border: 1px solid black;
+    
+    
+}
+.faall{
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.instructions{
+    font-size: 13px;
+    height: 500px;
+    margin-right: 30px;
+   
+}
+
+.instcthead{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: darkgrey;
+    
+}
+
+.formdownloadshead{
+    
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: darkgrey;
+}
+.formsinfo{
+  
+    padding:0px;
+    width: 82%;
+    height: 600px;
+    
+
+}
+.formlist{
+    padding:0px;
+    text-justify: auto;
+    
+}
+
+.formlist li{
+  background-color: rgb(167, 237, 248);
+  display: block;
+  height: 100px;
+  border-radius: 10%;
+  
+  }
+.fdonwload{
+    
+    width: 300px;
+    height: 101px;
+    margin: 0px auto;
+}
+
+  .btngroup .btn a{
+    color:#000;
+    text-decoration: none;
+  }
+
+  .btngroup .btn {
+    width: 450px;
+    height: 49px;
+}
+
+
+.about{
+    
+    width: 70%;
+    max-height: max-content;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 2em;
+    
+}
+
+.about h5{
+    text-align: center;
+}
+
+.about h6{
+    text-align: center;
+}
+
+.srcopt .btngroup .btn a{
+   
+    color:#000;
+    text-decoration: none;
+  }
+
+.srcopt .btngroup .btn{
+    background-color: #000;        
+    margin-left: 100px;
+}
+
+
+.btnformline1{
+    
+    width: 100%;
+    height: max-content;    
+    padding-bottom: 20px;
+}
+
+.btnformline1 .btn{
+    width: 110px;
+    height: 110px;
+
+
+}
+
+/*Sitemap*/
+
+
+* {
+    box-sizing: border-box;
+  }
+  .ssmlsitemap{
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgb(145, 214, 241);
+  }
+
+ 
+.ssmlsitemap .flex-container {
+        display: flex;
+        flex-direction: row;
+        font-size: 12px;
+        text-align: center;
+        margin: 0 5px 0 5px;
+      
+  }
+  
+  .ssmlsitemap .flex-item-left {
+    flex: 16%;
+  }
+
+  .ssmlsitemap .flex-item-left1 {
+   width: 100px;
+    flex: 6%;
+    
+  }
+
+  .relative{
+    position: relative;   
+    
+}
+
+
+.absolute{
+  position: absolute;  
+  bottom:0;  
+  left:0;
+  right: 0;  
+  margin:auto;
+}
+  
+ul li{
+    text-align: left;
+    display: block;
+}
+
+li a{
+    text-decoration: none;
+}
+.sitemaps{
+    text-align:left; 
+    
+    
+  }
+  .sitemaps a{
+    text-decoration: none;
+    color:#000;
+  }
+
+  .sitemaps a:hover{
+    color:#fff;
+  }
+
+.sitemaps h6{
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;    
+}
+.chq h6{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family:  sans-serif;
+    color: #0B5ED7;
+    text-decoration: underline;   
+}  
+
+@media (max-width: 800px) {
+    .info{
+        display: none;      
+    }
+    .form-check-label, .form-check-input{
+        display: none;
+    }
+    
+    
+  }
+
+.copyright{
+    text-align: center; 
+    height: 20px;
+    background-color: rgb(68, 171, 212);
+    font-size: 13px;
+    color:#000;
+    padding: 0;
+    
+    
+}
+.copyright a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+
